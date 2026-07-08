@@ -4,6 +4,6 @@ slug  : slaughterhouse-five
 seal  : 449253e3aeeeb3849e8e97aa94fa62f2d795336edf1b37cb94cc30594853b20b
 prev  : 446fc15ebf1f16065fbceed6974a4570089e659aa819b7a3eeb3c6763a02752c
 link  : cecbafc797376dd094581a093a86fc79e9448e244200b7d96af6d4b1338062ab
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
