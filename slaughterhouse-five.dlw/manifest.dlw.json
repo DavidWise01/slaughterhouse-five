@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "All moments, past, present, and future, always have existed, always will exist. So it goes.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 910,
+    "prev": "446fc15ebf1f16065fbceed6974a4570089e659aa819b7a3eeb3c6763a02752c",
+    "link": "cecbafc797376dd094581a093a86fc79e9448e244200b7d96af6d4b1338062ab",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
